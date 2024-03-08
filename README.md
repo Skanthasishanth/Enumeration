@@ -32,22 +32,71 @@ Google hacking, also known as Google dorking, is a technique that involves using
 
 site: This operator allows you to search for pages that are within a specific website or domain. For example, "site:example.com" would search for pages that are on the example.com domain.
 Following searches for all the sites that is in the domain yahoo.com
+## output:
+
+![exp3_1](https://github.com/Skanthasishanth/Enumeration/assets/118298456/2d52a20e-eb9b-49d9-813e-a0ce852b9ccb)
+
 
 filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.
 Following searches for pdf file in the domain yahoo.com
+## output:
+
+
+
+![exp3_2](https://github.com/Skanthasishanth/Enumeration/assets/118298456/85d51c97-0e0a-45f7-9b03-4963bf188149)
+
 
 
 
 intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
+## output:
+
+
+
+
+![exp3_3](https://github.com/Skanthasishanth/Enumeration/assets/118298456/337ca349-ee18-41b3-9168-dfe5a79a70bb)
+
 
 
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
+## output:
+
+
+
+
+![exp3_4](https://github.com/Skanthasishanth/Enumeration/assets/118298456/91462aa4-19bb-4736-b0df-07563f2c02c7)
+
+
 
 intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
+## output:
+
+
+
+
+![exp3_5](https://github.com/Skanthasishanth/Enumeration/assets/118298456/3b1ee44c-8e4e-45c3-ac8b-e4dfba947bf2)
+
+
 
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
+## output:
+
+
+
+![exp3_6](https://github.com/Skanthasishanth/Enumeration/assets/118298456/88bc9b0e-b4a5-40ec-9418-b146cb0387b0)
+
+
+
 
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
+## output:
+
+
+
+
+![exp3_7](https://github.com/Skanthasishanth/Enumeration/assets/118298456/58b5bdf1-3f2c-4001-abf0-57a02b769b36)
+
+
 
  
 #DNS Enumeration
@@ -62,6 +111,13 @@ Top level domain expansion
 ## OUTPUT:
 
 
+
+![exp3_8](https://github.com/Skanthasishanth/Enumeration/assets/118298456/77966a02-8236-4a59-b62d-147b234ac427)
+
+
+
+
+![exp3_9](https://github.com/Skanthasishanth/Enumeration/assets/118298456/dbcf5c09-6739-4626-ac35-4901a09e3fe3)
 
 
 
@@ -80,15 +136,39 @@ Calculate C class domain network ranges and perform whois queries on them (threa
 Perform reverse lookups on netranges (C class or/and whois netranges) (threaded).
 Write to domain_ips.txt file ip-blocks.
 This program is useful for pentesters, ethical hackers and forensics experts. It also can be used for security tests.
+## output:
+
+
+![exp3_10](https://github.com/Skanthasishanth/Enumeration/assets/118298456/3c779d52-af46-4ce2-917b-d370531845f3)
+
 
 
 ##smtp-user-enum
 Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
+## output:
+
+
+
+
+![exp3_11](https://github.com/Skanthasishanth/Enumeration/assets/118298456/ad9c914f-71b3-485f-8bf3-9c0441a4209c)
+
 
 
 In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
 
+
+
+![exp3_12](https://github.com/Skanthasishanth/Enumeration/assets/118298456/1fabce66-2893-4d46-ab4b-c8ff09d70e4a)
+
+
+
 select any username in the first column of the above file and check the same
+
+
+
+
+![exp3_13](https://github.com/Skanthasishanth/Enumeration/assets/118298456/1b10802d-916a-4af2-bd28-772985b268d6)
+
 
 
 #Telnet for smtp enumeration
@@ -96,8 +176,12 @@ Telnet allows to connect to remote host based on the port no. For smtp port no i
 telnet <host address> 25 to connect
 and issue appropriate commands
   
- ##Output
-  
+ ## Output
+
+
+
+![exp3_14](https://github.com/Skanthasishanth/Enumeration/assets/118298456/4dd3d0ae-0470-45d4-94c7-e7fe4a8e0621)
+
   
 
 ## nmap –script smtp-enum-users.nse <hostname>
@@ -108,6 +192,9 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 ## OUTPUT:
 
 
+
+![exp3_15](https://github.com/Skanthasishanth/Enumeration/assets/118298456/689f3a1f-e64f-4fad-a5af-d47e9e675943)
+
+
 ## RESULT:
 The Google hacking keywords and enumeration tools were identified and executed successfully
-
