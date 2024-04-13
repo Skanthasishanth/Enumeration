@@ -119,7 +119,7 @@ This program is useful for pentesters, ethical hackers and forensics experts. It
 ## Output:
 
 
-![exp3_10](https://github.com/Skanthasishanth/Enumeration/assets/118298456/3c779d52-af46-4ce2-917b-d370531845f3)
+![exp3op3](https://github.com/Skanthasishanth/Enumeration/assets/118298456/ef0c17ba-d7e8-4292-8c3a-7921771af4be)
 
 
 smtp-user-enum
