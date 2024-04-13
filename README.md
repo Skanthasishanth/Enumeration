@@ -25,7 +25,7 @@ Open terminal and try execute some kali linux commands
 Following Categories of pen test tools are identified:
 Information Gathering.
 
-Google Hacking:
+## Google Hacking:
 
 Google hacking, also known as Google dorking, is a technique that involves using advanced operators to perform targeted searches on Google. These operators can be used to search for specific types of information, such as sensitive data that may have been inadvertently exposed on the web. Here are some advanced operators that can be used for Google hacking:
 
@@ -81,7 +81,7 @@ cache: This operator allows you to view the cached version of a page. For exampl
 ![cacheethical](https://github.com/Skanthasishanth/Enumeration/assets/118298456/95273661-2996-46b9-8671-c668cbb9e9ed)
 
  
-DNS Enumeration
+## DNS Enumeration
 
 DNS Recon
 Provides the ability to perform:
@@ -100,7 +100,7 @@ Top level domain expansion
 
 
 
-dnsenum
+## dnsenum
 
 Dnsenum is a multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks. The main purpose of Dnsenum is to gather as much information as possible about a domain. The program currently performs the following operations:
 
@@ -122,7 +122,7 @@ This program is useful for pentesters, ethical hackers and forensics experts. It
 ![exp3op3](https://github.com/Skanthasishanth/Enumeration/assets/118298456/ef0c17ba-d7e8-4292-8c3a-7921771af4be)
 
 
-smtp-user-enum
+## smtp-user-enum
 Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
 
 ## Output:
@@ -140,18 +140,6 @@ Select any username in the first column of the above file and check the same
 ![exp3op6](https://github.com/Skanthasishanth/Enumeration/assets/118298456/04d84284-64c4-40f3-b5ba-ee0790426082)
 
 
-
-
-Telnet for smtp enumeration
-Telnet allows to connect to remote host based on the port no. For smtp port no is 25
-telnet <host address> 25 to connect
-and issue appropriate commands
-  
-  
-## Output:
-
-![exp3_14](https://github.com/Skanthasishanth/Enumeration/assets/118298456/4dd3d0ae-0470-45d4-94c7-e7fe4a8e0621)
-
   
 ## nmap –script smtp-enum-users.nse <hostname>
 
@@ -160,7 +148,8 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 ## Output:
 
-![exp3_15](https://github.com/Skanthasishanth/Enumeration/assets/118298456/689f3a1f-e64f-4fad-a5af-d47e9e675943)
+![exp3fsgs](https://github.com/Skanthasishanth/Enumeration/assets/118298456/843b24ea-cad9-435f-a74a-012696773f47)
+
 
 
 ## RESULT:
