@@ -127,11 +127,13 @@ Username guessing tool primarily for use against the default Solaris SMTP servic
 
 ## Output:
 
-![exp3_11](https://github.com/Skanthasishanth/Enumeration/assets/118298456/ad9c914f-71b3-485f-8bf3-9c0441a4209c)
+![exp3op4](https://github.com/Skanthasishanth/Enumeration/assets/118298456/2b83fc0f-8200-4928-845c-19a9ec1af43f)
+
 
 In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
 
-![exp3_12](https://github.com/Skanthasishanth/Enumeration/assets/118298456/1fabce66-2893-4d46-ab4b-c8ff09d70e4a)
+![exp3op5](https://github.com/Skanthasishanth/Enumeration/assets/118298456/66329b0e-154a-4920-8075-7db651353606)
+
 
 Select any username in the first column of the above file and check the same
 
