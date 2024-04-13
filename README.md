@@ -92,11 +92,11 @@ Top level domain expansion
 
 ## Output:
 
-![exp3_8](https://github.com/Skanthasishanth/Enumeration/assets/118298456/77966a02-8236-4a59-b62d-147b234ac427)
+![exp3op1](https://github.com/Skanthasishanth/Enumeration/assets/118298456/2418849a-fee2-4ac1-968d-9a4d9c913e94)
 
 
 
-![exp3_9](https://github.com/Skanthasishanth/Enumeration/assets/118298456/dbcf5c09-6739-4626-ac35-4901a09e3fe3)
+![exp3op2](https://github.com/Skanthasishanth/Enumeration/assets/118298456/8bf6ef4a-f61e-48cb-bea2-5674d0118597)
 
 
 
