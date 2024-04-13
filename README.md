@@ -65,19 +65,21 @@ intitle: This operator allows you to search for pages that contain specific text
 
 ![exp3_5](https://github.com/Skanthasishanth/Enumeration/assets/118298456/3b1ee44c-8e4e-45c3-ac8b-e4dfba947bf2)
 
-link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
+link: This operator allows you to search for pages that link to a specific URL. For example, "link:amazon.in" would search for pages that link to the example.com domain.
 
 
 ## Output:
 
-![exp3_6](https://github.com/Skanthasishanth/Enumeration/assets/118298456/88bc9b0e-b4a5-40ec-9418-b146cb0387b0)
+![linkethical](https://github.com/Skanthasishanth/Enumeration/assets/118298456/beb5dfda-e31b-4e5f-bb0f-d13d6b4201f8)
 
-cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
+
+cache: This operator allows you to view the cached version of a page. For example, "cache:amazon.in" would show the cached version of the example.com website.
 
 
 ## Output:
 
-![exp3_7](https://github.com/Skanthasishanth/Enumeration/assets/118298456/58b5bdf1-3f2c-4001-abf0-57a02b769b36)
+![cacheethical](https://github.com/Skanthasishanth/Enumeration/assets/118298456/95273661-2996-46b9-8671-c668cbb9e9ed)
+
  
 DNS Enumeration
 
