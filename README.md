@@ -137,7 +137,9 @@ In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
 
 Select any username in the first column of the above file and check the same
 
-![exp3_13](https://github.com/Skanthasishanth/Enumeration/assets/118298456/1b10802d-916a-4af2-bd28-772985b268d6)
+![exp3op6](https://github.com/Skanthasishanth/Enumeration/assets/118298456/04d84284-64c4-40f3-b5ba-ee0790426082)
+
+
 
 
 Telnet for smtp enumeration
